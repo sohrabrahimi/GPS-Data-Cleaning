@@ -3,10 +3,7 @@ This project is intended to show the reuqired steps in order to clean the locati
 
 This project requires Python 2.7 and the following Python libraries installed:
 
-NumPy
-
-Pandas
-
-matplotlib
-
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
 
